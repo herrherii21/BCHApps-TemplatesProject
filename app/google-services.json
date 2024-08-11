@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "112978510158",
+    "project_id": "bchapps-2effd",
+    "storage_bucket": "bchapps-2effd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112978510158:android:17a0f5a98e00961e751e1f",
+        "android_client_info": {
+          "package_name": "com.example.bchapps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwjFpjwjmNoew1Ad6G-_vV9JqA-FJI7pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

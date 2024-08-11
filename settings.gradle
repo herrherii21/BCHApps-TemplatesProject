@@ -1,0 +1,33 @@
+pluginManagement {
+    repositories {
+        google {
+            content {
+                includeGroupByRegex("com\\.android.*")
+                includeGroupByRegex("com\\.google.*")
+                includeGroupByRegex("androidx.*")
+            }
+
+            //Nama        : Heri ;
+            //NIM         : 10121914 ;
+            //Kelas       : IF9K ;
+            //Mata Kuliah : Pemrograman Android ;
+            //Dosen       : Rizki Adam Kurniawan S.Kom., M.Kom. ;
+            //Selesai     : 11 Agustus 2024. 14:00 ;
+
+        }
+        mavenCentral()
+        gradlePluginPortal()
+        maven{url'https://jitpack.io'}
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        maven{url'https://jitpack.io'}
+    }
+}
+
+rootProject.name = "BCHApps"
+include ':app'

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BCHApps</string>
+    <string name="introTitle">Explorer the<font color='#3f95ec'>\n World</font> with us</string>
+    <string name="subIntro">Lorem ipsum dolor sit amet, consectetur\n
+ adipiscing elit,sed do eiusmod tempor.</string>
+
+    <!--
+    //Nama        : Heri ;
+    //NIM         : 10121914 ;
+    //Kelas       : IF9K ;
+    //Mata Kuliah : Pemrograman Android ;
+    //Dosen       : Rizki Adam Kurniawan S.Kom., M.Kom. ;
+    //Selesai     : 11 Agustus 2024. 14:00 ;
+    -->
+
+</resources>
